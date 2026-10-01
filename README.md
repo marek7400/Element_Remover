@@ -8,6 +8,8 @@ Undo - press "ctrl+z" keys
 
 Select mouse on element (red box) - click to DELETE or use "Del" key (good option if element is non-clickable/blocked)
 
+v1.3 Fixed the issue with deleting video elements in frames and empty frames (sometimes you have to click “Delete” several times).
+
 example: (iframe window element)
 
 ![er1.jpg](images/er1.png)
